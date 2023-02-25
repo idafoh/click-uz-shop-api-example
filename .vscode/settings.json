@@ -1,0 +1,12 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "click-test",
+      "group": "test",
+      "database": "${workspaceFolder:click-uz-shop-api}/dev.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
